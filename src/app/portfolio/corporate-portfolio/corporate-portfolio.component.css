@@ -1,0 +1,58 @@
+.parallax {
+
+    background-image: url("/assets/Corporate_Port-Background.jpg");
+    min-height: 550px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15px;
+  }
+  .text{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Kanit', sans-serif;
+    margin-bottom: 5px;
+
+  }
+  .hr-lines-corporate_port::after{
+    content:" ";
+    height: 3px;
+    width: 140px;
+    background: #EF803B;
+    display: block;
+    position: absolute;
+    top: 607px;
+    margin-right: 283px;
+    right: 0;
+  }
+
+  .hr-lines-corporate_port::before{
+    content:" ";
+    height: 3px;
+    width: 140px;
+    background: #EF803B;
+    display: block;
+    position: absolute;
+    top: 607px;
+    margin-right: 925px;
+    right: 0;
+  }
+
+  .item-content img{
+    height: 300px;
+    width: 98% ;
+    margin-top: 10px;
+    margin-left: 4px;
+  }
+
+  @media screen and (max-width: 540px){
+    .text{
+      font-size: 30px;
+    }
+    .hr-lines-corporate_port{
+      display: none;
+    }
+  }

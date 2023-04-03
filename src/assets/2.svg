@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" 
+          height="347" viewBox="0 0 1554 347">
+  <defs>
+  <filter id="Rectangle_147518" x="0" y="11" width="229" height="204" filterUnits="userSpaceOnUse">
+  <feOffset dy="6" input="SourceAlpha"></feOffset>
+  <feGaussianBlur stdDeviation="6" result="blur"></feGaussianBlur>
+  <feFlood flood-opacity="0.161"></feFlood>
+  <feComposite operator="in" in2="blur"></feComposite>
+  <feComposite in="SourceGraphic"></feComposite>
+  </filter>
+  <filter id="Rectangle_147518-2" x="265" y="143" width="229" height="204" filterUnits="userSpaceOnUse">
+  <feOffset dy="6" input="SourceAlpha"></feOffset>
+  <feGaussianBlur stdDeviation="6" result="blur-2"></feGaussianBlur>
+  <feFlood flood-opacity="0.161"></feFlood>
+  <feComposite operator="in" in2="blur-2"></feComposite>
+  <feComposite in="SourceGraphic"></feComposite>
+  </filter>
+  <filter id="Rectangle_147518-3" x="530" y="11" width="229" height="204" filterUnits="userSpaceOnUse">
+  <feOffset dy="6" input="SourceAlpha"></feOffset>
+  <feGaussianBlur stdDeviation="6" result="blur-3"></feGaussianBlur>
+  <feFlood flood-opacity="0.161"></feFlood>
+  <feComposite operator="in" in2="blur-3"></feComposite>
+  <feComposite in="SourceGraphic"></feComposite>
+  </filter>
+  <filter id="Rectangle_147518-4" x="795" y="143" width="229" height="204" filterUnits="userSpaceOnUse">
+  <feOffset dy="6" input="SourceAlpha"></feOffset>
+  <feGaussianBlur stdDeviation="6" result="blur-4"></feGaussianBlur>
+  <feFlood flood-opacity="0.161"></feFlood>
+  <feComposite operator="in" in2="blur-4"></feComposite>
+  <feComposite in="SourceGraphic"></feComposite>
+  </filter>
+  <filter id="Rectangle_147518-5" x="1060" y="11" width="229" height="204" filterUnits="userSpaceOnUse">
+  <feOffset dy="6" input="SourceAlpha"></feOffset>
+  <feGaussianBlur stdDeviation="6" result="blur-5"></feGaussianBlur>
+  <feFlood flood-opacity="0.161"></feFlood>
+  <feComposite operator="in" in2="blur-5"></feComposite>
+  <feComposite in="SourceGraphic"></feComposite>
+  </filter>
+  <filter id="Rectangle_147518-6" x="1325" y="143" width="229" height="204" filterUnits="userSpaceOnUse">
+  <feOffset dy="6" input="SourceAlpha"></feOffset>
+  <feGaussianBlur stdDeviation="6" result="blur-6"></feGaussianBlur>
+  <feFlood flood-opacity="0.161"></feFlood>
+  <feComposite operator="in" in2="blur-6"></feComposite>
+  <feComposite in="SourceGraphic"></feComposite>
+  </filter>
+  </defs>
+  <g id="Group_76620" data-name="Group 76620" transform="translate(-183.001 -4334)">
+  <path id="Path_593" data-name="Path 593" d="M376.49,4476.391s-15.521,116.125,109.557,118.177" transform="translate(1070)" fill="none" stroke="#c54760" stroke-width="2" stroke-dasharray="4"></path>
+  <path id="Path_594" data-name="Path 594" d="M376.49,4594.568s-15.521-116.125,109.557-118.177" transform="translate(790 -70)" fill="none" stroke="#c54760" stroke-width="2" stroke-dasharray="4"></path>
+  <path id="Path_595" data-name="Path 595" d="M376.49,4594.568s-15.521-116.125,109.557-118.177" transform="translate(253 -70)" fill="none" stroke="#c54760" stroke-width="2" stroke-dasharray="4"></path>
+  <path id="Path_592" data-name="Path 592" d="M376.49,4476.391s-15.521,116.125,109.557,118.177" transform="translate(533)" fill="none" stroke="#c54760" stroke-width="2" stroke-dasharray="4"></path>
+  <path id="Path_591" data-name="Path 591" d="M376.49,4476.391s-15.521,116.125,109.557,118.177" fill="none" stroke="#c54760" stroke-width="2" stroke-dasharray="4"></path>
+  <g id="Group_76613" data-name="Group 76613" transform="translate(98.082 -213)">
+  <path id="Rectangle_147517" data-name="Rectangle 147517" d="M80,0H193a0,0,0,0,1,0,0V101a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(102.919 4570)" fill="#2820bd" opacity="0.8"></path>
+  <g transform="matrix(1, 0, 0, 1, 84.92, 4547)" filter="">
+  <path id="Rectangle_147518-7" data-name="Rectangle 147518" d="M80,0H193a0,0,0,0,1,0,0V88a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(18 23)" fill="#ef803b"></path>
+  </g>
+  <text id="_Get_Free_Quote" data-name=" Get Free Quote" transform="translate(130.918 4622)" font-size="24" font-family="Poppins-Regular, Poppins">
+  <tspan x="0" y="25" xml:space="preserve"> Get Free </tspan>
+  <tspan x="0" y="60">Quote</tspan>
+  </text>
+  <text id="_1" data-name="1" transform="translate(130.918 4611)" font-size="48" font-family="Poppins-SemiBold, Poppins" font-weight="600">
+  <tspan x="-8" y="0">1</tspan>
+  </text>
+  </g>
+  <g id="Group_76614" data-name="Group 76614" transform="translate(363.082 -81)">
+  <path id="Rectangle_147517-2" data-name="Rectangle 147517" d="M80,0H193a0,0,0,0,1,0,0V99a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(102.919 4570)" fill="#2820bd" opacity="0.8"></path>
+  <g transform="matrix(1, 0, 0, 1, -180.08, 4415)" filter="">
+  <path id="Rectangle_147518-8" data-name="Rectangle 147518" d="M80,0H193a0,0,0,0,1,0,0V88a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(283 155)" fill="#ef803b"></path>
+  </g>
+  <text id="Free_design_consultation" data-name="Free design consultation" transform="translate(124.918 4620)" font-size="24" font-family="Poppins-Regular, Poppins">
+  <tspan x="0" y="25">Free design </tspan>
+  <tspan x="0" y="60">consultation</tspan>
+  </text>
+  </g>
+  <g id="Group_76615" data-name="Group 76615" transform="translate(628.082 -213)">
+  <path id="Rectangle_147517-3" data-name="Rectangle 147517" d="M80,0H193a0,0,0,0,1,0,0V98a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(102.919 4570)" fill="#2820bd" opacity="0.8"></path>
+  <g transform="matrix(1, 0, 0, 1, -445.08, 4547)" filter="">
+  <path id="Rectangle_147518-9" data-name="Rectangle 147518" d="M80,0H193a0,0,0,0,1,0,0V88a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(548 23)" fill="#ef803b"></path>
+  </g>
+  <text id="Book_your_design" data-name="Book your design" transform="translate(130.918 4620)" font-size="24" font-family="Poppins-Regular, Poppins">
+  <tspan x="0" y="25">Book your </tspan>
+  <tspan x="0" y="60">design</tspan>
+  </text>
+  </g>
+  <g id="Group_76617" data-name="Group 76617" transform="translate(893.082 -81)">
+  <path id="Rectangle_147517-4" data-name="Rectangle 147517" d="M80,0H193a0,0,0,0,1,0,0V98a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(102.919 4570)" fill="#2820bd" opacity="0.8"></path>
+  <g transform="matrix(1, 0, 0, 1, -710.08, 4415)" filter="">
+  <path id="Rectangle_147518-10" data-name="Rectangle 147518" d="M80,0H193a0,0,0,0,1,0,0V88a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(813 155)" fill="#ef803b"></path>
+  </g>
+  <text id="_3D_Visualisation_" data-name="3D Visualisation​" transform="translate(121.918 4614)" font-size="24" font-family="Poppins-Regular, Poppins">
+  <tspan x="0" y="25">3D </tspan>
+  <tspan x="0" y="60">Visualisation​</tspan>
+  </text>
+  </g>
+  <g id="Group_76618" data-name="Group 76618" transform="translate(1158.082 -213)">
+  <path id="Rectangle_147517-5" data-name="Rectangle 147517" d="M80,0H193a0,0,0,0,1,0,0V99a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(102.919 4570)" fill="#2820bd" opacity="0.8"></path>
+  <g transform="matrix(1, 0, 0, 1, -975.08, 4547)" filter="">
+  <path id="Rectangle_147518-11" data-name="Rectangle 147518" d="M80,0H193a0,0,0,0,1,0,0V88a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(1078 23)" fill="#ef803b"></path>
+  </g>
+  <text id="Project_planning" data-name="Project planning" transform="translate(130.918 4620)" font-size="24" font-family="Poppins-Regular, Poppins">
+  <tspan x="0" y="25">Project </tspan>
+  <tspan x="0" y="60">planning</tspan>
+  </text>
+  </g>
+  <g id="Group_76619" data-name="Group 76619" transform="translate(1423.082 -81)">
+  <path id="Rectangle_147517-6" data-name="Rectangle 147517" d="M80,0H193a0,0,0,0,1,0,0V98a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(102.919 4570)" fill="#2820bd" opacity="0.8"></path>
+  <g transform="matrix(1, 0, 0, 1, -1240.08, 4415)" filter="">
+  <path id="Rectangle_147518-12" data-name="Rectangle 147518" d="M80,0H193a0,0,0,0,1,0,0V88a80,80,0,0,1-80,80H0a0,0,0,0,1,0,0V80A80,80,0,0,1,80,0Z" transform="translate(1343 155)" fill="#ef803b"></path>
+  </g>
+  <text id="Hassle_free_execution" data-name="Hassle free execution" transform="translate(130.918 4620)" font-size="24" font-family="Poppins-Regular, Poppins">
+  <tspan x="0" y="25">Hassle free </tspan>
+  <tspan x="0" y="60">execution</tspan>
+  </text>
+  </g>
+  <text id="_2" data-name="2" transform="translate(499 4521)" font-size="48" font-family="Poppins-SemiBold, Poppins" font-weight="600">
+  <tspan x="-13" y="0">2</tspan>
+  </text>
+  <text id="_3" data-name="3" transform="translate(769 4384)" font-size="48" font-family="Poppins-SemiBold, Poppins" font-weight="600">
+  <tspan x="-14" y="0">3</tspan>
+  </text>
+  <text id="_4" data-name="4" transform="translate(1028 4521)" font-size="48" font-family="Poppins-SemiBold, Poppins" font-weight="600">
+  <tspan x="-15" y="0">4</tspan>
+  </text>
+  <text id="_5" data-name="5" transform="translate(1307 4384)" font-size="48" font-family="Poppins-SemiBold, Poppins" font-weight="600">
+  <tspan x="-15" y="0">5</tspan>
+  </text>
+  <text id="_6" data-name="6" transform="translate(1567 4518)" font-size="48" font-family="Poppins-SemiBold, Poppins" font-weight="600">
+  <tspan x="-15" y="0">6</tspan>
+  </text>
+  </g>
+  </svg>
